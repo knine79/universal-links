@@ -3,8 +3,8 @@
 		"apps": [],
 		"details": [
 			{
-				"appID": "VDL485ULB9.com.tmon.UniversalLinks",
-				"paths": [ "*"]
+				"appID": "8234ALC25B.com.ticketmonster.tmonapp",
+				"paths": ["*"]
 			}
 		]
 	}
