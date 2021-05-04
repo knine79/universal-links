@@ -5,6 +5,10 @@
 			{
 				"appID": "CX2K28Z3E9.com.kakaoenterprise.mac.dev.UniversalLinkTestApp",
 				"paths": ["*"]
+			},
+			{
+				"appID": "CX2K28Z3E9.com.kakaoenterprise.mac.dev.UniversalLinkTestApp",
+				"paths": ["/arduino.html"]
 			}
 		]
 	}
